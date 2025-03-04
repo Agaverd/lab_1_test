@@ -1,0 +1,3 @@
+D:/sourse/repos/lab_1_test/build/CMakeFiles/lab_1_test.dir
+D:/sourse/repos/lab_1_test/build/CMakeFiles/ALL_BUILD.dir
+D:/sourse/repos/lab_1_test/build/CMakeFiles/ZERO_CHECK.dir
